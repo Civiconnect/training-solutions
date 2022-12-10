@@ -1,0 +1,3 @@
+[submodule "Level1"]
+	path = Level1
+	url = https://github.com/Civiconnect/training-level1.git
