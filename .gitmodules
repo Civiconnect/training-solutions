@@ -7,3 +7,6 @@
 [submodule "Level3"]
 	path = Level3
 	url = https://github.com/Civiconnect/training-level3.git
+[submodule "Level4"]
+	path = Level4
+	url = https://github.com/Civiconnect/training-level4.git
